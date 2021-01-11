@@ -1,0 +1,7 @@
+// change the theme
+$theme-colors: (
+  "dark":rgb(44, 43, 46)
+);
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';

@@ -46,3 +46,20 @@
     transform: rotate(360deg);
   }
 }
+.app .About{
+  background: url(./bg.jpeg) no-repeat center center;
+  background-size: cover;
+}
+
+#SkillsSection{
+  z-index: 0;
+
+}
+#particles{
+  position: absolute;
+  z-index: 1;
+}
+
+#skills{
+  z-index: 2;
+}

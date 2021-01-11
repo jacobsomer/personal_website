@@ -1,0 +1,11 @@
+.Lefye:hover{
+    transform: scale(1.2);
+    
+}
+.Lefye{
+    transition: transform .2s;
+    display:inline-block;
+    opacity: .5;
+    overflow: 'hidden';
+}
+
