@@ -1,31 +1,30 @@
 {
   "files": {
-    "main.css": "/jacobsomer/personal_website/static/css/main.349cdce0.chunk.css",
-    "main.js": "/jacobsomer/personal_website/static/js/main.f6e6f151.chunk.js",
-    "main.js.map": "/jacobsomer/personal_website/static/js/main.f6e6f151.chunk.js.map",
-    "runtime-main.js": "/jacobsomer/personal_website/static/js/runtime-main.d34f3880.js",
-    "runtime-main.js.map": "/jacobsomer/personal_website/static/js/runtime-main.d34f3880.js.map",
+    "main.css": "/jacobsomer/personal_website/static/css/main.13f1526d.chunk.css",
+    "main.js": "/jacobsomer/personal_website/static/js/main.489cd638.chunk.js",
+    "main.js.map": "/jacobsomer/personal_website/static/js/main.489cd638.chunk.js.map",
+    "runtime-main.js": "/jacobsomer/personal_website/static/js/runtime-main.6d9c4115.js",
+    "runtime-main.js.map": "/jacobsomer/personal_website/static/js/runtime-main.6d9c4115.js.map",
     "static/css/2.b7a7281e.chunk.css": "/jacobsomer/personal_website/static/css/2.b7a7281e.chunk.css",
-    "static/js/2.d3c5df08.chunk.js": "/jacobsomer/personal_website/static/js/2.d3c5df08.chunk.js",
-    "static/js/2.d3c5df08.chunk.js.map": "/jacobsomer/personal_website/static/js/2.d3c5df08.chunk.js.map",
-    "static/js/3.54c06082.chunk.js": "/jacobsomer/personal_website/static/js/3.54c06082.chunk.js",
-    "static/js/3.54c06082.chunk.js.map": "/jacobsomer/personal_website/static/js/3.54c06082.chunk.js.map",
+    "static/js/2.bf659f2f.chunk.js": "/jacobsomer/personal_website/static/js/2.bf659f2f.chunk.js",
+    "static/js/2.bf659f2f.chunk.js.map": "/jacobsomer/personal_website/static/js/2.bf659f2f.chunk.js.map",
+    "static/js/3.5f934468.chunk.js": "/jacobsomer/personal_website/static/js/3.5f934468.chunk.js",
+    "static/js/3.5f934468.chunk.js.map": "/jacobsomer/personal_website/static/js/3.5f934468.chunk.js.map",
     "index.html": "/jacobsomer/personal_website/index.html",
     "static/css/2.b7a7281e.chunk.css.map": "/jacobsomer/personal_website/static/css/2.b7a7281e.chunk.css.map",
-    "static/css/main.349cdce0.chunk.css.map": "/jacobsomer/personal_website/static/css/main.349cdce0.chunk.css.map",
-    "static/js/2.d3c5df08.chunk.js.LICENSE.txt": "/jacobsomer/personal_website/static/js/2.d3c5df08.chunk.js.LICENSE.txt",
+    "static/css/main.13f1526d.chunk.css.map": "/jacobsomer/personal_website/static/css/main.13f1526d.chunk.css.map",
+    "static/js/2.bf659f2f.chunk.js.LICENSE.txt": "/jacobsomer/personal_website/static/js/2.bf659f2f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/jacobsomer/personal_website/static/media/bg.4c2ae71e.jpeg",
     "static/media/slidingPane.css": "/jacobsomer/personal_website/static/media/copy.05d4a2e0.png",
     "static/media/cover.3833f548.png": "/jacobsomer/personal_website/static/media/cover.3833f548.png",
     "static/media/lefye.6fa80d29.png": "/jacobsomer/personal_website/static/media/lefye.6fa80d29.png",
-    "static/media/mnist.7f2f7f6b.png": "/jacobsomer/personal_website/static/media/mnist.7f2f7f6b.png",
-    "static/media/portrait.2e1e57c2.jpeg": "/jacobsomer/personal_website/static/media/portrait.2e1e57c2.jpeg"
+    "static/media/mnist.7f2f7f6b.png": "/jacobsomer/personal_website/static/media/mnist.7f2f7f6b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d34f3880.js",
+    "static/js/runtime-main.6d9c4115.js",
     "static/css/2.b7a7281e.chunk.css",
-    "static/js/2.d3c5df08.chunk.js",
-    "static/css/main.349cdce0.chunk.css",
-    "static/js/main.f6e6f151.chunk.js"
+    "static/js/2.bf659f2f.chunk.js",
+    "static/css/main.13f1526d.chunk.css",
+    "static/js/main.489cd638.chunk.js"
   ]
 }
